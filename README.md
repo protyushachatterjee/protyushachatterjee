@@ -48,5 +48,3 @@ I strongly believe in continuous learning & tech-skill enhancement in the IT fie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=protyushachatterjee&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

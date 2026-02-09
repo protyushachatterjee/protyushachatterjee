@@ -7,7 +7,7 @@
 ## About Me 🙇‍♀️
 
 🔭 **I’m currently working on**  
-Working as a Programmer Analyst Trainee at Cognizant, focusing on building strong technical and functional expertise.
+Working as a developer role in IT world, focusing on building strong technical and functional expertise.
 
 👯 **I’m looking to collaborate on**  
 Real-world projects, enterprise applications, and business-oriented IT solutions.

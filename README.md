@@ -4,7 +4,7 @@
 
 ---
 
-## About Me 🙇‍♀️
+# About Me 🙇‍♀️
 
 🔭 **I’m currently working on**  
 Working as a developer role in IT world, focusing on building strong technical and functional expertise.
@@ -40,10 +40,10 @@ I strongly believe in continuous learning & tech-skill enhancement in the IT fie
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=protyushachatterjee&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
